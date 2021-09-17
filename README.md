@@ -6,5 +6,4 @@ Some activities
 
 ## Git
 
-## Github
 
