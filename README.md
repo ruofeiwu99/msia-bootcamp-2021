@@ -2,5 +2,4 @@
 
 Some activities
 
-
 ## Shell
