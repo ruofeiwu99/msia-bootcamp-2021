@@ -3,3 +3,6 @@
 Some activities
 
 ## Shell
+
+## Git
+
